@@ -1,0 +1,12 @@
+# Local EDA evidence and connection/runtime data never belong in the skill.
+work/
+outputs/
+snapshots/
+node_modules/
+__pycache__/
+*.log
+*.epro
+*.epro2
+*.eprj
+.env
+.env.*
