@@ -1,1 +1,4 @@
-
+interface:
+  display_name: "嘉立创 PCB 规则助手"
+  short_description: "检查嘉立创 PCB 的线宽、间距、过孔与网络约束，解释 DRC 结果"
+  default_prompt: "使用 $easyeda-pcb-rules 检查当前嘉立创 PCB 的规则约束，先列出缺失参数和建议。"
